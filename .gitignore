@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Un-ignore these
+!.gitignore
+!src/
+!src/**/*
